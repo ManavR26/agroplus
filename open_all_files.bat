@@ -1,0 +1,11 @@
+@echo off
+cursor "assets/js/main.js"
+cursor "assets/css/style.css"
+cursor "includes/search_products.php"
+cursor "includes/get_products.php"
+cursor "includes/get_cart_count.php"
+cursor "includes/config.php"
+cursor "includes/add_to_cart.php"
+cursor "includes/add_sample_products.php"
+cursor ".htaccess"
+cursor "waste_management.php"
